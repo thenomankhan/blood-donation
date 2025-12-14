@@ -1,0 +1,14 @@
+C:\Users\NOMAN\OneDrive\Documents\CSE File\Blood Donation managment\bin\Debug\net8.0\Blood Donation managment.exe
+C:\Users\NOMAN\OneDrive\Documents\CSE File\Blood Donation managment\bin\Debug\net8.0\Blood Donation managment.deps.json
+C:\Users\NOMAN\OneDrive\Documents\CSE File\Blood Donation managment\bin\Debug\net8.0\Blood Donation managment.runtimeconfig.json
+C:\Users\NOMAN\OneDrive\Documents\CSE File\Blood Donation managment\bin\Debug\net8.0\Blood Donation managment.dll
+C:\Users\NOMAN\OneDrive\Documents\CSE File\Blood Donation managment\bin\Debug\net8.0\Blood Donation managment.pdb
+C:\Users\NOMAN\OneDrive\Documents\CSE File\Blood Donation managment\obj\Debug\net8.0\Blood Donation managment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NOMAN\OneDrive\Documents\CSE File\Blood Donation managment\obj\Debug\net8.0\Blood Donation managment.AssemblyInfoInputs.cache
+C:\Users\NOMAN\OneDrive\Documents\CSE File\Blood Donation managment\obj\Debug\net8.0\Blood Donation managment.AssemblyInfo.cs
+C:\Users\NOMAN\OneDrive\Documents\CSE File\Blood Donation managment\obj\Debug\net8.0\Blood Donation managment.csproj.CoreCompileInputs.cache
+C:\Users\NOMAN\OneDrive\Documents\CSE File\Blood Donation managment\obj\Debug\net8.0\Blood Donation managment.dll
+C:\Users\NOMAN\OneDrive\Documents\CSE File\Blood Donation managment\obj\Debug\net8.0\refint\Blood Donation managment.dll
+C:\Users\NOMAN\OneDrive\Documents\CSE File\Blood Donation managment\obj\Debug\net8.0\Blood Donation managment.pdb
+C:\Users\NOMAN\OneDrive\Documents\CSE File\Blood Donation managment\obj\Debug\net8.0\Blood Donation managment.genruntimeconfig.cache
+C:\Users\NOMAN\OneDrive\Documents\CSE File\Blood Donation managment\obj\Debug\net8.0\ref\Blood Donation managment.dll
